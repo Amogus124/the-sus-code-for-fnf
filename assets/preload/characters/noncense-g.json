@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-65,
+				63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "God down"
+		},
+		{
+			"offsets": [
+				-65,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "god up"
+		},
+		{
+			"offsets": [
+				-64,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "god right"
+		},
+		{
+			"offsets": [
+				-66,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left god"
+		},
+		{
+			"offsets": [
+				-65,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle god"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nonsense_God",
+	"position": [
+		-140,
+		50
+	],
+	"healthicon": "noncense-g",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		174,
+		255
+	],
+	"camera_position": [
+		90,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

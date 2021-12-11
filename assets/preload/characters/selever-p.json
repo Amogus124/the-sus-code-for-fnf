@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SelDown"
+		},
+		{
+			"offsets": [
+				-70,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SelUp"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SelIdle"
+		},
+		{
+			"offsets": [
+				14,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SelRight"
+		},
+		{
+			"offsets": [
+				10,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SelLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fuckboi_sheet",
+	"position": [
+		130,
+		-50
+	],
+	"healthicon": "selever",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		23,
+		77
+	],
+	"camera_position": [
+		200,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

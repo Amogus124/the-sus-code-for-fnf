@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Ugh"
+		},
+		{
+			"offsets": [
+				0,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				-170,
+				-283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				4,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				141,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				0,
+				-290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Ugh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ron",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		107,
+		30
+	],
+	"camera_position": [
+		-100,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "paracite down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "parasite up new",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mungus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				197
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "parasite left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "parasite right new",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BigGreen",
+	"position": [
+		-170,
+		230
+	],
+	"healthicon": "parasite",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		0
+	],
+	"camera_position": [
+		-270,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

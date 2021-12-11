@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				137
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TailsDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				227
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TailsUP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-85,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TailsIDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-68,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "TailsLEFT"
+		},
+		{
+			"offsets": [
+				-22,
+				172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "TailsRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails_soul",
+	"position": [
+		-10,
+		500
+	],
+	"healthicon": "tailsexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		110,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

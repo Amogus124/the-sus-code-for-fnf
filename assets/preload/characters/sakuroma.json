@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "SakuIdle"
+		},
+		{
+			"offsets": [
+				20,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SakuDown"
+		},
+		{
+			"offsets": [
+				34,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SakuUp"
+		},
+		{
+			"offsets": [
+				470,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SakuLeft"
+		},
+		{
+			"offsets": [
+				151,
+				180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SakuRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sakuroma",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		54,
+		108
+	],
+	"camera_position": [
+		-290,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

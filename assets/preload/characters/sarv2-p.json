@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SarvDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SarvUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SarvRight"
+		},
+		{
+			"offsets": [
+				10,
+				47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SarvLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sarvente2",
+	"position": [
+		-80,
+		-140
+	],
+	"healthicon": "sarv2",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		0,
+		67
+	],
+	"camera_position": [
+		190,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

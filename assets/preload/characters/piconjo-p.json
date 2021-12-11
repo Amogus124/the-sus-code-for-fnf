@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				113,
+				-10
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "monster idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				44
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monster up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monster down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "monster down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				44
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "monster up note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				113,
+				-10
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "monster idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				390,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				259,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monster left note"
+		},
+		{
+			"offsets": [
+				259,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Monster left note"
+		},
+		{
+			"offsets": [
+				410,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Monster Right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Piconjo_Assets",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "piconjo",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		46,
+		46
+	],
+	"camera_position": [
+		70,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rosalina Note Left"
+		},
+		{
+			"offsets": [
+				40,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rosalina Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				3
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Rosalina Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-15
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Rosalina Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rosalina Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rosalina Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rosalina Note Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-14,
+				-18
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Rosalina Note Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				1
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Rosalina Note Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rosalina_assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "rosalina",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		0,
+		115
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

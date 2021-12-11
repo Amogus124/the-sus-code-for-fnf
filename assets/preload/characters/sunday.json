@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunday idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunday down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				247
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunday up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sunday left"
+		},
+		{
+			"offsets": [
+				-138,
+				93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sunday right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunday_assets",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "sunday",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		173,
+		154
+	],
+	"camera_position": [
+		160,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

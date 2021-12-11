@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				4,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MadTabiUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				331,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MadTabiRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MadTabiLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MadTabiIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadTabi",
+	"position": [
+		150,
+		-10
+	],
+	"healthicon": "tabi2",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		55,
+		112
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

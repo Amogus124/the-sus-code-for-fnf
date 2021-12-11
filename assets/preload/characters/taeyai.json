@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-56,
+				44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "TaeYai up"
+		},
+		{
+			"offsets": [
+				-180,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "TaeYai right"
+		},
+		{
+			"offsets": [
+				-40,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "TaeYai Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "TaeYai left"
+		},
+		{
+			"offsets": [
+				-20,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "TaeYai Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Taeyai",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "taeyai",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

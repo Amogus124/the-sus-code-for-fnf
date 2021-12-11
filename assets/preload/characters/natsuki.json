@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Nat Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nat Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nat Sing Note Up"
+		},
+		{
+			"offsets": [
+				-99,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nat Sing Note Left"
+		},
+		{
+			"offsets": [
+				-90,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nat Sing Note Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki_Nat_Assets",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		92,
+		250
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

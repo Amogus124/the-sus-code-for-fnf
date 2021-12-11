@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "vrage_ffff"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vrage_ffff",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vrage_ffff",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-300
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vrage_ffff",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				-300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vrage_ffff",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fuck",
+	"position": [
+		-120,
+		-30
+	],
+	"healthicon": "v-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		-50,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
