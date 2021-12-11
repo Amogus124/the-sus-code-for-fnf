@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FlippyDies.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlippyIdle0000" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0001" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0002" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0003" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0004" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0005" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0006" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0007" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0008" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0009" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0010" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0011" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyIdle0012" x="83" y="83" width="536" height="591"/>
+	<SubTexture name="FlippyLeft0000" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0001" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0002" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0003" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0004" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0005" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0006" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0007" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0008" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0009" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0010" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0011" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0012" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0013" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0014" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0015" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0016" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0017" x="673" y="83" width="596" height="701"/>
+	<SubTexture name="FlippyLeft0018" x="673" y="83" width="596" height="701"/>
+</TextureAtlas>
