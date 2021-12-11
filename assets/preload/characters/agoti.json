@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Agoti_Up"
+		},
+		{
+			"offsets": [
+				10,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Agoti_Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Agoti_Down"
+		},
+		{
+			"offsets": [
+				260,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Agoti_Left"
+		},
+		{
+			"offsets": [
+				70,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Agoti_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AGOTI",
+	"position": [
+		30,
+		-60
+	],
+	"healthicon": "agoti",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Flippy Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Flippy Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				117
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Flippy Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				97
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Flippy Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Flippy NOTE LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fliqpy",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "flipqy",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		136,
+		0
+	],
+	"camera_position": [
+		160,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

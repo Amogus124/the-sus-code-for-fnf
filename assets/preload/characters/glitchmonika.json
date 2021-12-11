@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika Idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monika Down"
+		},
+		{
+			"offsets": [
+				-166,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Monika Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monika Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monika Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GlitchMonika",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monika-glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

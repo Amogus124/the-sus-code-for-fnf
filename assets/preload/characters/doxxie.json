@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "doxxie left"
+		},
+		{
+			"offsets": [
+				30,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doxxie down"
+		},
+		{
+			"offsets": [
+				24,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doxxie up"
+		},
+		{
+			"offsets": [
+				20,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doxxie right"
+		},
+		{
+			"offsets": [
+				30,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "doxxie idle"
+		},
+		{
+			"offsets": [
+				30,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "doxxie idle"
+		},
+		{
+			"offsets": [
+				11,
+				-90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "doxxie left"
+		},
+		{
+			"offsets": [
+				20,
+				-93
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "doxxie right"
+		},
+		{
+			"offsets": [
+				24,
+				-96
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "doxxie up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doxxie_assets",
+	"position": [
+		-130,
+		130
+	],
+	"healthicon": "doxxie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		70,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

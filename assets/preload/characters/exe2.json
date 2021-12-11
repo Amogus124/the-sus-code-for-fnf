@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICmoveDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				367
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICmoveUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SONIClaugh"
+		},
+		{
+			"offsets": [
+				105,
+				390
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICmoveIDLE"
+		},
+		{
+			"offsets": [
+				162,
+				203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICmoveRIGHT"
+		},
+		{
+			"offsets": [
+				222,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICmoveLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/P2Sonic_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "exe2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		10,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

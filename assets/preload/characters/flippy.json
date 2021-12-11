@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FLP M LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FLP M DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FLP M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FLP M RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FLIPPY Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-90
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "FLIPPY Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				71,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "FLP M LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				-73
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "FLP M RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				74,
+				-10
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "FLP M UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_onslaught",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "Flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		114,
+		20
+	],
+	"camera_position": [
+		-80,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

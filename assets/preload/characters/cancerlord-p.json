@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				430
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cancer_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				438
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cancer_up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cancer_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				430
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cancer_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cancer_left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cancerlord",
+	"position": [
+		-320,
+		-40
+	],
+	"healthicon": "cancer",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		0,
+		112
+	],
+	"camera_position": [
+		340,
+		-380
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

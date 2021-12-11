@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-490
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tordbot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-466
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tordbot up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tordbot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tordbot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tordbot left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hellclown",
+	"position": [
+		500,
+		-1510
+	],
+	"healthicon": "hellclown",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		140,
+		151
+	],
+	"camera_position": [
+		450,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				271
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Big Monika Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				237
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Big Monika Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Big Monika Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				285
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Big Monika Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				178,
+				286
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Big Monika Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_monikia_base",
+	"position": [
+		200,
+		-40
+	],
+	"healthicon": "bigmonika",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		235,
+		82
+	],
+	"camera_position": [
+		-330,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

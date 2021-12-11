@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gabe alt down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gabe alt up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "gabe alt idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gabe alt right"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gabe alt left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gabe_assets",
+	"position": [
+		50,
+		120
+	],
+	"healthicon": "gabe",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

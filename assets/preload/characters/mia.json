@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "mia idle"
+		},
+		{
+			"offsets": [
+				160,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mia Down"
+		},
+		{
+			"offsets": [
+				204,
+				290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mia Up"
+		},
+		{
+			"offsets": [
+				270,
+				207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mia Left"
+		},
+		{
+			"offsets": [
+				221,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mia right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mia",
+	"position": [
+		170,
+		340
+	],
+	"healthicon": "mia",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		255
+	],
+	"camera_position": [
+		-170,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

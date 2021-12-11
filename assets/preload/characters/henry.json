@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				60,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				70,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				20,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/henry_angry",
+	"position": [
+		160,
+		260
+	],
+	"healthicon": "henry",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		0,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

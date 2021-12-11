@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "amor left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "amor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "amor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "amor right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "amor idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "amor fucking dies"
+		},
+		{
+			"offsets": [
+				120,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey2",
+			"loop": false,
+			"name": "amor scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amorex",
+	"position": [
+		-10,
+		-20
+	],
+	"healthicon": "amor",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		90,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

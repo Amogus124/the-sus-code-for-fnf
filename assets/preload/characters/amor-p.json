@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-65,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "amor down"
+		},
+		{
+			"offsets": [
+				40,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "amor up"
+		},
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "amor idle"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "amor right"
+		},
+		{
+			"offsets": [
+				90,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "amor left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amorex",
+	"position": [
+		-10,
+		-20
+	],
+	"healthicon": "amor",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		110,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				229
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				180,
+				230
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				184,
+				230
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				201,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				490,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				490,
+				217
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				201,
+				230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Sing Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cablecrow",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "cablecrow",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		76,
+		36
+	],
+	"camera_position": [
+		330,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

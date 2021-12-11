@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord down"
+		},
+		{
+			"offsets": [
+				14,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord up"
+		},
+		{
+			"offsets": [
+				51,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord right"
+		},
+		{
+			"offsets": [
+				10,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord left"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "tord idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ED_Matt_Assets",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "matt2",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		184
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

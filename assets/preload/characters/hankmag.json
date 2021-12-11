@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				240,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAG Hank Down"
+		},
+		{
+			"offsets": [
+				124,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAG Hank Up"
+		},
+		{
+			"offsets": [
+				120,
+				-160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MAG Hank Idle"
+		},
+		{
+			"offsets": [
+				150,
+				-150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "MAG Hank Hey"
+		},
+		{
+			"offsets": [
+				201,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MAG Hank Left"
+		},
+		{
+			"offsets": [
+				90,
+				-183
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MAG Hank Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MagHank",
+	"position": [
+		90,
+		120
+	],
+	"healthicon": "maghank",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		14,
+		33
+	],
+	"camera_position": [
+		60,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

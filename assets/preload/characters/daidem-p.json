@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-139,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-180,
+				110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-66,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-110,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DaidemAssetsREwork",
+	"position": [
+		-130,
+		0
+	],
+	"healthicon": "daidem",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		0
+	],
+	"camera_position": [
+		-60,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord left"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord down"
+		},
+		{
+			"offsets": [
+				-6,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord up"
+		},
+		{
+			"offsets": [
+				10,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord right"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "tord idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Edd_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		160,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
